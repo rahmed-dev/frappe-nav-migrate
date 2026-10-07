@@ -1,0 +1,9 @@
+{
+  "name": "frappe-nav-migrate",
+  "description": "Convert custom Frappe apps to the Frappe v16.50 navigation (Apps screen tile, Dock rail, one Sidebar per module), and write the patches that make live sites match.",
+  "version": "1.0.0",
+  "author": { "name": "rahmed-dev" },
+  "homepage": "https://github.com/rahmed-dev/frappe-nav-migrate",
+  "license": "MIT",
+  "keywords": ["frappe", "erpnext", "navigation", "sidebar", "dock", "v16"]
+}

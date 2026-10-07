@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "frappe-nav-migrate",
+  "description": "Skill to move custom Frappe apps to the Frappe v16.50 navigation.",
+  "owner": { "name": "rahmed-dev" },
+  "plugins": [
+    {
+      "name": "frappe-nav-migrate",
+      "description": "Convert custom Frappe apps to the Frappe v16.50 navigation, and write the patches that make live sites match.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/rahmed-dev/frappe-nav-migrate"
+    }
+  ]
+}
